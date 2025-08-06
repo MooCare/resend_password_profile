@@ -18,7 +18,7 @@ Directory name: `local_resend_password_profile`
 
 1. Download or clone this repository into the `local/` directory of your Moodle installation:
     ```bash
-    git clone https://github.com/yourusername/local_resendconfirmation local/resendconfirmation
+    git clone https://github.com/moocare/local_resend_password_profile local/resend_password_profile
     ```
 
 2. Go to **Site administration > Notifications** to complete the installation.
@@ -50,6 +50,7 @@ This plugin includes basic checks to ensure that:
 Currently available in:
 
 - English (en)
+- French (fr)
 
 Feel free to contribute translations!
 
