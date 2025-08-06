@@ -5,7 +5,7 @@ This Moodle plugin allows site administrators to **resend the account confirmati
 ## 🧩 Plugin Type
 
 **Local plugin**  
-Directory name: `local_resendconfirmation`
+Directory name: `local_resend_password_profile`
 
 ## ✅ Features
 
